@@ -7,7 +7,7 @@ This is a temporary script file.
 Author: jrodg85
 """
 
-def Helloworld(a):
+def HelloWorld(a):
     return print(a)
 
-Helloworld('print')
+HelloWorld('print')
